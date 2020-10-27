@@ -8,11 +8,11 @@ from io import StringIO
 from loguru import logger
 
 
-JIRA_URL = 'http://bigdata8.ddns.net:8008/'
-JIRA_ACCOUNT = ('alexander', '12345trewq')
+JIRA_URL = 'http://bi12gвпfdata8.ddns.net:8008/'
+JIRA_ACCOUNT = ('afl1вапexan12der', '1234521trewq')
 JIRA_PROJECT = 'DEV'
 GITLAB_URL = 'http://150.136.4.127:8929/'
-GITLAB_TOKEN = 'JhLGUrDRfdzSoRAoinG9'
+GITLAB_TOKEN = 'JhLGdfUrDRfdвпваzSoRAoinG9'
 GITLAB_PROJECT = 'devsecops/devsecops'
 GITLAB_PROJECT_ID = 6
 VERIFY_SSL_CERTIFICATE = False
